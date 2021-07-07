@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@playwright/test": "^1.12.3",
+    "pdf-extraction": "^1.0.2",
+    "playwright": "^1.12.3"
+  },
+  "scripts": {
+    "test": "npx playwright test"
+  }
+}
